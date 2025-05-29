@@ -8,5 +8,6 @@ The user interface is built with JavaFX, and game states are saved using object 
 Video showcasing the Sudoku game and some of its features:
 
 
-https://github.com/user-attachments/assets/c0eef690-3500-4780-9627-7f7801e4ca01
+https://github.com/user-attachments/assets/60be3258-2880-4185-a7c3-c66d8aea5171
+
 
